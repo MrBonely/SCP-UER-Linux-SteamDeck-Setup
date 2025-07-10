@@ -18,7 +18,7 @@
 
 **First: "Gear Icon" > "Manage" > "Browse Local Files" > Select "dgVoodoo" Folder and Delete/Move to Trash**
 
-**Second (Optional but Recommended): Download this preconfigered dgVoodoo2 config optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
+**Second (Optional but Recommended): [Download this preconfigered dgVoodoo2 config](https://github.com/MrBonely/SCP-UER-Linux-SteamDeck-Setup/blob/main/preconfigs/dgVoodoo.conf) optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
 
 **Third: Extract "dgVoodoo2_79_3.zip" > Open the extracted folder > Copy "dgVoodooCpl.exe" to game executable directory of SCP UERM > go to MS/x86 > Copy all 4 DLLS and place them in the directory of the executable file for SCP UERM**
 #
@@ -30,7 +30,7 @@
 
 **First: Three Vertical Dots > folder in rectangle icon > Select "dgVoodoo" Folder and Delete/Move to Trash**
 
-**Second (Optional but Recommended): Download this preconfigered dgVoodoo2 config optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
+**Second (Optional but Recommended): [Download this preconfigered dgVoodoo2 config](https://github.com/MrBonely/SCP-UER-Linux-SteamDeck-Setup/blob/main/preconfigs/dgVoodoo.conf) optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
 
 **Third: Extract "dgVoodoo2_79_3.zip" > Open the extracted folder > Copy "dgVoodooCpl.exe" to game executable directory of SCP UER > go to MS/x86 > Copy all 4 DLLS and place them in the directory of the executable file for SCP UER**
 #
@@ -40,7 +40,7 @@
 
 **First: select UER you installed > click the "Up Arrow" next to "Play" > "Browse Files" > drive_c > "SCP - Containment Breach Ultimate Edition Reborn" > select "dgVoodoo" Folder and Delete/Move to Trash**
 
-**Second (Optional but Recommended): Download this preconfigered dgVoodoo2 config optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
+**Second (Optional but Recommended): [Download this preconfigered dgVoodoo2 config](https://github.com/MrBonely/SCP-UER-Linux-SteamDeck-Setup/blob/main/preconfigs/dgVoodoo.conf) optimized for this game on WINE/Proton, then place it into the directory of the executable for SCP UER**
 
 **Third: Extract "dgVoodoo2_79_3.zip" > Open the extracted folder > Copy "dgVoodooCpl.exe" to game executable directory of SCP UER > go to MS/x86 > Copy all 4 DLLS and place them in the directory of the executable file for SCP UER**
 
