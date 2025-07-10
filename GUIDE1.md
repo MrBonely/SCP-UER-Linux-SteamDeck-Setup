@@ -52,7 +52,7 @@
 
 ### Alternatively for the Steam Flatpak: ".var/app/com.valvesoftware.Steam/.steam/steam/steamapps/compatdata/3257000/pfx/drive_c/users/steamuser/AppData/Roaming/scpcb-mr/Data/options.ini"
 
-### Once thats added to file and saved, launch the game, the game will be playable, for much smoother gameplay check out my 2nd guide: [getting dgVoodoo2 to work properly on WINE/Proton]()
+### Once thats added to file and saved, launch the game, the game will be playable, for much smoother gameplay check out my 2nd guide: [getting dgVoodoo2 to work properly on WINE/Proton](https://github.com/MrBonely/SCP-UER-Linux-SteamDeck-Setup/blob/main/GUIDE2.md)
 
 ##
 ## Singleplayer Version (modDB)
