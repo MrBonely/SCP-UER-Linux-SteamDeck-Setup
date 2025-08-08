@@ -59,12 +59,12 @@
 
 ## Bottles:
 **Bottles GUI > Three Vertical Dots > click folder inside rectangle icon > go up, out the game directory > users > steamuser > AppData > Roaming > scpcb-ue > Data > "Options.ini".**
-**Open the "Options.ini" file with your Text Editor and Add: Play Startup Video=0 under "[Advanced]", save the file and exit.**
+**Open the "Options.ini" file with your Text Editor and Add: Play Startup Videos=0 under "[Advanced]", save the file and exit.**
 
 #
 ## Lutris:
 **Lutris GUI > "Up Arrow" next to "Play" > Browse Files > drive_c > users > steamuser > AppData > Roaming > scpcb-ue > Data > "Options.ini".**
-**Open the "Options.ini" file with your Text Editor and Add: Play Startup Video=0 under "[Advanced]", save the file and exit.**
+**Open the "Options.ini" file with your Text Editor and Add: Play Startup Videos=0 under "[Advanced]", save the file and exit.**
 ##
 # Once you launch the game it will now be playable, for smoother gameplay check out my 2nd guide: [getting dgVoodoo2 to work properly on WINE/Proton](https://github.com/MrBonely/SCP-UER-Linux-SteamDeck-Setup/blob/main/GUIDE2.md)
 
